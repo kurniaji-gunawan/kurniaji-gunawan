@@ -1,9 +1,4 @@
-👋 : 私のGITHUBへようこそ
-すべてのバランス 
-- 🥩 食べる 
-- 😴 寝る 
-- 💻 コーディング 
-- 🎮 ゲーム
+Trust me, I'm not Robot
 
 <!---
 kurniaji-gunawan/skurniaji-gunawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
